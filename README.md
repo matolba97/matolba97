@@ -13,5 +13,3 @@ Python · SQL · PostgreSQL · Power BI · DAX · Excel
 
 ## Find me
 - LinkedIn: https://www.linkedin.com/in/mohamed-tolba-72499214a/
-- Threads: https://www.threads.com/@itaxiii
-- YouTube: https://www.youtube.com/@Taxilion
